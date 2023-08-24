@@ -1,0 +1,25 @@
+table,td,th{
+	border-style:solid;
+	border-collapse:collapse;
+}
+*{
+	background-color:white;
+}
+.a{
+	color:red;
+}
+.b{
+	color:blue;
+}	
+.c{
+	color:maroon;
+}
+.d{
+	color:violet;
+}
+.e{
+	color:green;
+}	
+table{
+	margin-left:300px; 
+}
